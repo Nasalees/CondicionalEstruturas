@@ -1,3 +1,3 @@
 
-Exercitanto lógica de estruturas condiocais.
+Exercitanto lógica de estruturas condicionais
 
